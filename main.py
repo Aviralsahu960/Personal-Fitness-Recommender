@@ -202,6 +202,7 @@ class FitnessCLI:
 
     def _print_build_muscle_plan(self, fitness_level: str):
         print("Today's Recommended Build-Muscle Full-Body Routine:")
+        print("Tip: If you can easily finish all sets, increase weight slightly next week.")
 
         if fitness_level == "beginner":
             print("\nHome (Dumbbells / Bands / Bodyweight):")
