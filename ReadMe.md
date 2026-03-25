@@ -26,8 +26,7 @@ GitHub repository (public):
 
 ```text
 https://github.com/Aviralsahu960/Personal-Fitness-Recommender
-
----
+```
 
 
 2. **Install required Python libraries**
