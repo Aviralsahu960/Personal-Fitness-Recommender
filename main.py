@@ -1,3 +1,8 @@
+# Personal Fitness Recommender CLI
+# Author: Aviral Sahu
+# Course: Fundamentals of AI & ML (CSA2001) - BYOP
+# Note: Designed as a simple terminal tool I can actually use for my own workouts.
+
 from data import DataManager
 from model import FitnessModel
 
@@ -142,7 +147,7 @@ class FitnessCLI:
         password = input("Enter password: ")
         if self.data_manager.login_user(username, password):
             self.current_user = username
-            print(f"Welcome, {username}!")
+            print(f"Welcome, {username}! Remember: consistency beats perfection.")
         else:
             print("Invalid credentials.")
 

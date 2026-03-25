@@ -297,4 +297,9 @@ Example CLI outputs are available in the `screenshots/` folder, including:
 - Workout logging and history (`log_workout.png`, `view_progress.png`)
 - Workout analytics summary (`workout_summary.png`)
 
+
 If you follow the steps above, an evaluator with no prior context should be able to install, run, and understand the project entirely from the command line.  
+
+## Why I built this
+
+I go to the gym and also train at home, and I often get confused about how to structure my workouts. This project is my attempt to combine what I learned in the AI & ML course with something I can actually use: a simple terminal app that suggests routines based on my goal and logs what I did. I can extend it later as my own personal fitness tracker.
