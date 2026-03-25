@@ -25,8 +25,10 @@ It is designed as a complete **CLI application** with user accounts, data persis
 GitHub repository (public):
 
 ```text
-https://github.com/Aviralsahu960/Personal-Fitness-Recommended
-```
+https://github.com/Aviralsahu960/Personal-Fitness-Recommender
+
+---
+
 
 2. **Install required Python libraries**
 
@@ -263,7 +265,7 @@ This is especially useful for:
 
 ## 7. Project Report
 
-For the formal course submission, refer to `project_report.pdf` (not included here).  
+For the formal course submission, refer to `project_report.pdf`.  
 The report typically covers:
 
 - Problem statement and motivation  
@@ -286,5 +288,13 @@ Some ideas for extending this project:
 - Use a larger real dataset to train a more accurate recommendation model.
 
 ---
+
+## Screenshots
+
+Example CLI outputs are available in the `screenshots/` folder, including:
+- Main menu (`MainMenu.png`)
+- AI routine recommendation (`suggest_routine.png`)
+- Workout logging and history (`log_workout.png`, `view_progress.png`)
+- Workout analytics summary (`workout_summary.png`)
 
 If you follow the steps above, an evaluator with no prior context should be able to install, run, and understand the project entirely from the command line.  
