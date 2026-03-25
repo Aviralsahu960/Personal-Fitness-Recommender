@@ -25,10 +25,8 @@ It is designed as a complete **CLI application** with user accounts, data persis
 GitHub repository (public):
 
 ```text
-https://github.com/Aviralsahu960/Personal-Fitness-Recommender
-
----
-
+https://github.com/Aviralsahu960/Personal-Fitness-Recommended
+```
 
 2. **Install required Python libraries**
 
